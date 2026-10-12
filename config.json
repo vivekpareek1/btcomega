@@ -1,0 +1,13 @@
+{
+  "myAddress": "",
+  "bloomFile": "bloom.blm",
+  "threads": 4,
+  "mode": "milk",
+  "autoSweep": true,
+  "minSweepSats": 2000,
+  "port": 8787,
+  "milk": { "startSeed": 1356998400, "endSeed": 1483228800 },
+  "seq": { "base": "1", "count": 100000000 },
+  "random": { "count": 100000000 },
+  "brain": { "wordlists": ["words.txt"], "extraPhrases": ["satoshi nakamoto","correct horse battery staple"], "rounds": 7 }
+}
